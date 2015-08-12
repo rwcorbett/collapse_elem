@@ -1,9 +1,10 @@
 # collapse_elem
 ## Robb Corbett
 
-@rwcorbett
-robb.corbett@live.ca
-rwcorbett@live.ca
+Contact me:
+- @rwcorbett
+- robb.corbett@gmail.com
+- rwcorbett@live.ca
 
 ## description
 this library provides a simple way to add a collapsible element anywhere in your page
@@ -14,6 +15,12 @@ https://github.com/rwcorbett/collapse_elem.git
 ## structure
 ```
 |-- README.md
+|-- LICENSE.txt
+|-- collapse_elem.less
+|-- collapse_elem.css
+|-- collapse_elem.js
+|-- Font-Awesome_v4.3.0 / *
+
 ```
 
 ## changes
