@@ -7,7 +7,7 @@
 // Copyright (c) 2015 Robb Corbett
 //
 
-//my own expander library; currently requires FontAwesome http://fortawesome.github.io/Font-Awesome/
+//my own expander library
 var Collapse_Elem = Collapse_Elem | {};
 Collapse_Elem = function () {
     Collapse_Elem.prototype.load = function (fromTop, fromLeft) {

@@ -11,13 +11,13 @@ this library provides a simple way to add a collapsible element anywhere in your
 ## repo
 https://github.com/rwcorbett/collapse_elem.git
 
-## structure
-```
-|-- README.md
-```
-
 ## changes
 11 Aug, 2015
 - initial submit of library
+
+6 Dec, 2015
+- remove Font-Awesome folder
+- import [Font Awesome](https://github.com/FortAwesome/Font-Awesome) instead of bundling it
+- import `Source Sans Pro` and `Source Code Pro` from [Google Fonts](https://www.google.com/fonts)
 
 _Copyright (c) 2015 by Robb Corbett. See LICENSE.txt for licensing; using MIT license_
