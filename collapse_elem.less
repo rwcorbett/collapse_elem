@@ -1,3 +1,5 @@
+// out: collapse_elem.css, sourcemap: true, compress: true
+// ^^^ from https://github.com/lohek/less-autocompile
 //
 // NAME   : collapse_elem.less
 // AUTHOR : Robb Corbett
@@ -6,22 +8,24 @@
 //
 // Copyright (c) 2015 Robb Corbett
 //
-
-@import (css) "Font-Awesome_v4.3.0/css/font-awesome.min.css";
-
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro);
+@source-sans: 'Source Sans Pro', Arial, sans-serif;
+@source-code: 'Source Code Pro', Consolas, "Courier New", monospace;
 .collapse_elem {
-  span.collapse {
-    padding: 0.5em 0.5em 0.5em 1.5em;
-    margin: 0;
-    background-color: rgba(222, 222, 222, 0.1);
-  }
-  i.expander {
-    span {
-      padding: 0;
-      font-family: monospace;
+    font-family: @source-code;
+    span.collapse {
+        padding: 0.5em 0.5em 0.5em 1.5em;
+        margin: 0;
+        background-color: rgba(222, 222, 222, 0.1);
     }
-  }
-  .hidden {
-    visibility: hidden;
-  }
+    i.expander {
+        span {
+            padding: 0;
+            font-family: @source-code;
+        }
+    }
+    .hidden {
+        visibility: hidden;
+    }
 }
