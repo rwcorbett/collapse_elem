@@ -9,7 +9,8 @@ rwcorbett@live.ca
 this library provides a simple way to add a collapsible element anywhere in your page
 
 ## repo
-https://github.com/rwcorbett/collapse_elem.git
+new **https://git-codecommit.us-east-1.amazonaws.com/v1/repos/collapse_elem**
+old *https://github.com/rwcorbett/collapse_elem.git*
 
 ## changes
 11 Aug, 2015
