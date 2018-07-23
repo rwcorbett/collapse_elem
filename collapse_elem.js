@@ -1,7 +1,7 @@
 /**
  * NAME   : collapse_elem.js
  * AUTHOR : Robb Corbett @rwcorbett
- * EMAIL  : robb.corbett@live.ca || rwcorbett@live.ca
+ * EMAIL  : robb.corbett@gmail.com || rwcorbett@live.ca
  * GITHUB : https://github.com/rwcorbett/collapse_elem.git
  * DESC   : this library provides a simple way to add a collapsible element anywhere in your page
  *
